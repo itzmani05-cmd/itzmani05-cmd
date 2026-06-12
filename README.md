@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # Manikandan
@@ -217,4 +216,3 @@ Worked as a **Full Stack Developer** contributing to a statewide admission manag
 *"Building software that solves real problems at scale."*
 
 </div>
-```
