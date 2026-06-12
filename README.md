@@ -104,54 +104,6 @@ Worked as a **Full Stack Developer** contributing to a statewide admission manag
 
 ---
 
-# Featured Projects
-
-## Engineering College Insights Platform
-
-**MERN-based analytics platform for engineering college intelligence and admissions insights**
-
-### Highlights
-
-- Built a platform managing information for **500+ colleges**
-- Engineered scalable APIs for **fast and optimized data retrieval**
-- Implemented **advanced filtering and search systems**
-- Designed **course-wise and cutoff-wise analytics**
-- Improved decision-making for engineering admissions data exploration
-
-### Tech Stack
-
-`MongoDB` • `Express.js` • `React.js` • `Node.js` • `Ant Design`
-
----
-
-## C³ — Quiz Management & Student Activity Tracking Platform
-
-**Freelance EdTech platform for quiz participation, tracking, and learning engagement**
-
-### Highlights
-
-- Delivered a production-ready platform used by **100+ students**
-- Built a **mobile app** for quiz participation and activity tracking
-- Developed an **admin portal** supporting **6+ administrators**
-- Integrated **real-time quiz evaluation and instant result generation**
-- Managed **deployment, backend infrastructure, and maintenance**
-
-### Tech Stack
-
-`React Native` • `React.js` • `Node.js` • `MongoDB` • `Express.js`
-
----
-
-## What I’m Currently Working On
-
-- Scalable **MERN & FastAPI applications**
-- Data analytics and engineering platforms
-- Full-stack production systems
-- Backend architecture & API optimization
-- Cloud deployment and infrastructure
-
----
-
 # GitHub Stats
 
 <div align="center">
@@ -177,17 +129,6 @@ Worked as a **Full Stack Developer** contributing to a statewide admission manag
     <img src="https://img.shields.io/badge/GeeksforGeeks-Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
 </p>
-
----
-
-# Achievements & Engineering Focus
-
-- Built systems supporting **500+ institutions**
-- Managed workflows for **200,000+ seat allocations**
-- Delivered **real-world production software**
-- Experience in **cloud deployment & infrastructure**
-- Strong focus on **backend systems and scalable architecture**
-- Practical engineering experience across **frontend + backend**
 
 ---
 
