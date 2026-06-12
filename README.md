@@ -71,34 +71,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎓 Engineering College Insights Platform
-A full-stack platform for exploring and analyzing **500+ engineering colleges**.
-
-✨ Features:
-- College-wise analytics
-- Course & cutoff analysis
-- Advanced search and filtering
-- RESTful APIs
-
-**Tech:** `MERN Stack` `Ant Design`
-
----
-
-### 📚 C³ - Quiz Management & Student Tracking Platform
-A **Web + Mobile EdTech Platform** used by **100+ students**
-
-✨ Features:
-- Real-time quiz system
-- Automatic evaluation
-- Admin dashboard
-- Student activity tracking
-
-**Tech:** `React Native` `React.js` `Node.js` `MongoDB`
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
