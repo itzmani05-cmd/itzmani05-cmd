@@ -15,7 +15,7 @@
 
 🏛️ Worked as a **Full Stack Developer at TNEA (Tamil Nadu Engineering Admissions)**, contributing to systems used by **500+ engineering colleges**
 
-☁️ Interested in **Scalable Systems, Web Development, Cloud, and Data Analytics**
+☁️ Interested in **Scalable Systems, Web Development, and Cloud**
 
 🌱 Currently exploring:
 - System Design
@@ -74,10 +74,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itzmani05-cmd&show_icons=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzmani05-cmd" />
 </p>
 
@@ -97,7 +93,3 @@ GitHub
 LinkedIn
 </a>
 </p>
-
----
-
-⭐ **"Building scalable systems and solving real-world problems through technology."**
