@@ -18,20 +18,6 @@ Currently pursuing **B.E. Computer Science and Engineering** at **Government Col
 
 --- 
 
-# Coding Profiles
-
-<p align="left">
-  <a href="https://github.com/itzmani05-cmd">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-  </a>
-  
-  <a href="https://www.geeksforgeeks.org/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
-</p>
-
----
-
 <div align="center">
 
 ### Open to Software Engineering, Full Stack Development, Backend Engineering, and Internship Opportunities
