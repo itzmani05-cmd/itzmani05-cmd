@@ -21,7 +21,4 @@ Currently pursuing **B.E. Computer Science and Engineering** at **Government Col
 <div align="center">
 
 ### Open to Software Engineering, Full Stack Development, Backend Engineering, and Internship Opportunities
-
-*"Building software that solves real problems at scale."*
-
 </div>
