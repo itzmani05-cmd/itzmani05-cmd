@@ -1,6 +1,6 @@
 <div align="center">
 
-# Manikandan
+# Manikandan M
 
 ### Full Stack Developer • Backend-Focused Engineer 
 
