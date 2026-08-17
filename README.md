@@ -8,17 +8,3 @@ Building scalable web applications, real-time systems, and data-driven platforms
 
 </div>
 
----
-
-# About Me
-
-I am a **Full Stack Developer** passionate about building **production-grade software systems** with strong expertise in **backend development, scalable APIs, cloud deployment, and responsive frontend engineering**.
-
-Currently pursuing **B.E. Computer Science and Engineering** at **Government College of Technology, Coimbatore**
-
---- 
-
-<div align="center">
-
-### Open to Software Engineering, Full Stack Development, Backend Engineering, and Internship Opportunities
-</div>
